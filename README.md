@@ -432,8 +432,8 @@ hmm_other.train(other_sequences, num_iterations=1000)
 CB_Project/
 │
 ├── main.ipynb                 # Main Jupyter notebook with all implementations
-├── Report_CB.pdf              # Comprehensive project report
-├── Project_HMM.pdf            # Detailed explanation of Baum-Welch algorithm
+├── Final_Report.pdf              # Comprehensive project report
+├── Baum_Welch_maths_background.pdf            # Detailed explanation of Baum-Welch algorithm
 ├── README.md                  # This file
 │
 └── images/                    # Figures extracted from report
